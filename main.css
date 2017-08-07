@@ -7,8 +7,8 @@ li {
 
 img {
     border-radius: 50%;
-    float:right;
-    display:block;
+    float:right ;
+
     
 }
 
@@ -18,6 +18,7 @@ img {
     float:left;
     background: #FFFDD0;
     display: flex;
+    font-family: 'Saira', sans-serif;
 }
 
 p{
